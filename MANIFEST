@@ -5,3 +5,4 @@ README
 lib/Template/Plugin/Shuffle.pm
 t/00_compile.t
 t/01_shuffle.t
+META.yml                                 Module meta-data (added by MakeMaker)

@@ -1,5 +1,5 @@
 #!/usr/local/bin/perl
-# $Id$
+# $Id: /mirror/monster/Template-Plugin-Shuffle/trunk/t/01_shuffle.t 874 2003-04-18T07:38:40.000000Z miyagawa  $
 #
 # Tatsuhiko Miyagawa <miyagawa@edge.jp>
 # EDGE, Co.,Ltd.
